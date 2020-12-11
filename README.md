@@ -7,6 +7,7 @@
     <br />
     <br />
     <a href="https://docs.google.com/document/d/1GCg7KxJ0ykM-ZQAFoYYqEIT3WGHLrKYY_jMCU_BQrGw/edit?usp=sharing">View Design</a>
+    <br />
     <a href="https://covidtracker.bsg.ox.ac.uk/">Oxford Government Response Tracker, Data, and Studies</a>
   </p>
 </p>
