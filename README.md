@@ -11,3 +11,7 @@
     <a href="https://covidtracker.bsg.ox.ac.uk/">Oxford Government Response Tracker, Data, and Studies</a>
   </p>
 </p>
+
+## Updates in Fall 2020 and Future Approach
+
+After some time has passed, and after learning new techniques, I would approach this problem differently.  Rather than measuring school stringency index as a static number settled into by a country over time, I would take the average of school stringency for each country over the last 9 months.  I would also start my measurement for each country from the date of first confirmed case in that country.  An additional feature to add to the analysis would be date from first case or death to date of implementation of new closure policy.  I would use clustering algorithms to group countries by school stringency index and by death rates.  I'd also use time series analysis to see whether changes in death rate can be predicted by changes in school closure policies.
